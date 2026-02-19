@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Women's Health",
+    "slug": "womens-health-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF0F5"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFF0F5"
+      },
+      "package": "com.yourname.womenshealthapp"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        { "photosPermission": "Sağlık belgelerinizi yüklemek için fotoğraf galerisine erişim gerekiyor." }
+      ],
+      [
+        "expo-notifications",
+        { "icon": "./assets/icon.png", "color": "#E91E8C" }
+      ]
+    ]
+  }
+}
