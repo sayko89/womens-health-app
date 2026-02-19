@@ -152,7 +152,7 @@ eas build --platform android --profile preview
 
 ---
 
-## 📝 Geliştirme Notları (Panoda Gördüklerim)
+## 📝 Geliştirme Notları 
 
 Bu projeyi geliştirirken panodaki teknik debt analizinden şu kararları verdim:
 
@@ -164,39 +164,7 @@ Bu projeyi geliştirirken panodaki teknik debt analizinden şu kararları verdim
 
 ---
 
-## 📋 Commit Stratejisi
-
-```
-feat: HomeScreen kartlı layout eklendi
-feat: EducationScreen makale listesi ve detay modal
-feat: ExpertQAScreen soru gönderme ve durum takibi
-feat: UploadScreen kamera/galeri/PDF seçimi
-feat: TimerScreen countdown ve preset zamanlayıcılar
-feat: ProfileScreen kullanıcı ayarları ve hesap yönetimi
-refactor: Shared components (Button, Card, Badge) ayrıldı
-style: Tema sistemi (renkler, typography, spacing) tanımlandı
-docs: README.md güncellendi
-```
-
----
-
-## 📦 Teslim Kontrol Listesi
-
-- [x] Public GitHub repo
-- [x] Anlamlı commit mesajları
-- [x] README (açıklama, kurulum, teknoloji)
-- [x] En az 5 ekran
-- [x] Bottom tab navigasyon
-- [x] Loading / Empty / Error states
-- [x] Form validasyonu
-- [x] Liste-detay akışı (Eğitim, Uzman Sor)
-- [ ] Expo publish linki *(çalıştırdıktan sonra ekle)*
-- [ ] APK *(EAS build sonrası ekle)*
-
----
-
 ## 👩‍💻 Geliştirici
 
-**[İsim Soyisim]** — [GitHub Profil Linki]
+**Safiye Özkan** 
 
-*Bu proje [Kamp/Bootcamp adı] kapsamında geliştirilmiştir.*
