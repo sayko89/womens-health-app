@@ -164,6 +164,81 @@ Bu projeyi geliştirirken panodaki teknik debt analizinden şu kararları verdim
 
 ---
 
+📱 Uygulama Çıktısı
+🔗 Expo Link
+
+Bu proje Expo ile geliştirilmiştir.
+
+Projeyi Expo Go üzerinden çalıştırmak için:
+
+Telefonuna Expo Go uygulamasını indir.
+
+Aşağıdaki linki aç veya QR kodu okut:
+
+https://expo.dev/@kullaniciadi/womens-health-app
+
+
+Not: Eğer link aktif değilse, projeyi çalıştırmak için:
+
+npm install
+npx expo start
+
+📦 APK (Android Build)
+
+Android APK dosyasını indirmek için:
+
+https://expo.dev/artifacts/eas/your-apk-link
+
+
+APK, Expo EAS Build kullanılarak oluşturulmuştur.
+
+📝 Proje Notu
+🎯 Hedef Kullanıcı Kitlesi
+
+18–40 yaş arası kadınlar
+
+Regl takibi yapmak isteyen kullanıcılar
+
+Günlük sağlık verilerini basit bir arayüzle takip etmek isteyenler
+
+Sağlık konusunda farkındalığını artırmak isteyen mobil kullanıcılar
+
+❓ Çözmek İstenen Problem
+
+Birçok kadın, regl döngüsü ve genel sağlık durumunu takip etmek için ya karmaşık uygulamalar kullanmak zorunda kalıyor ya da düzenli kayıt tutamıyor.
+
+Bu uygulama ile amaç:
+
+Basit ve anlaşılır bir arayüz sunmak
+
+Regl takibini kolaylaştırmak
+
+Günlük semptom kayıtlarını pratik hale getirmek
+
+Kullanıcının kendi sağlık verisini görselleştirmesini sağlamak
+
+Karmaşık ve reklam dolu uygulamalara alternatif olarak sade bir deneyim sunmak hedeflenmiştir.
+
+🎨 İlham ve Tasarım Kararları
+
+Tasarım sürecinde:
+
+Yumuşak tonlar ve pastel renkler kullanılarak güvenli ve sakin bir hissiyat oluşturuldu.
+
+Minimal ve sade bir arayüz tercih edildi.
+
+Kadın sağlığı temasına uygun olarak modern, ferah ve okunabilir bir UI tasarlandı.
+
+Ekranlar arası geçişler basit tutuldu, kullanıcıyı yormayan bir navigasyon akışı oluşturuldu.
+
+Panodan alınan ilham doğrultusunda:
+
+Feminen ama klişe olmayan bir renk paleti seçildi.
+
+Bilgi yoğunluğu azaltıldı.
+
+Kart yapıları ve boşluk kullanımıyla ferah bir tasarım hedeflendi.
+
 ## 👩‍💻 Geliştirici
 
 **Safiye Özkan** 
